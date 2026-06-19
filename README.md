@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Pawan12221468">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> -->
   </a>
 </p>
 
@@ -67,14 +67,6 @@
 > Responsive e-commerce platform with category-based products, Add-to-Cart, payment integration, and chatbot support.
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
-
----
-
-## 📈 GitHub Stats
-
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
